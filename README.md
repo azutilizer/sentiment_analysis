@@ -12,6 +12,5 @@ python3 emo_recognizer_by_voice.py <wave_file>
 
 ## 2. emo_recognizer_by_face.py
 [OpenVINO](https://docs.openvinotoolkit.org/2019_R1/_emotions_recognition_retail_0003_description_emotions_recognition_retail_0003.html) supports fast and accurate model for emotion recognition.
-```shell script
-python3 emo_recognizer_by_face.py <jpeg_file>
-```
+
+Check [FaceEmoRecognizer](FaceEmoRecognizer). 
